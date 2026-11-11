@@ -3,7 +3,7 @@
 > **"A water purifier that reads your water and warns you before the filter fails."**
 
 Developed by **Team NEXTGEN AI**  
-- **Praveen K** & **Prithika C**  
+- **Prithika C** & **Praveen K** 
 - **Sri Ramakrishna Institute of Technology, Coimbatore**
 
 ---
